@@ -1,0 +1,2 @@
+patient.P_PatientID, patient.P_Name, patient.P_DoB, patient.P_ZIP, patient.P_Diagnosis, patient.P_Treatment, patient.P_DoctorID;
+doctor.D_DoctorID, doctor.D_Name, doctor.D_DoB, doctor.D_ZIP, doctor.D_Specialty;

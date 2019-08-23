@@ -1,0 +1,12 @@
+customer.c_acctbal;
+supplier.s_acctbal;
+lineitem.l_discount;
+customer.c_name,customer.c_address;
+customer.c_name,orders.o_custkey;
+supplier.s_name,lineitem.l_suppkey;
+#supplier.s_name,orders.o_totalprice;
+supplier.s_name,partsupp.ps_suppkey,partsupp.ps_supplycost;
+orders.o_orderdate,orders.o_totalprice;
+#lineitem.l_quantity,lineitem.l_extendedprice;
+#supplier.s_name,partsupp.ps_partkey,part.p_partkey;
+#supplier.s_name,lineitem.l_discount;

@@ -1,0 +1,2 @@
+patient.P_Diagnosis, patient.P_ZIP;
+patient.P_Treatment, doctor.D_Specialty;

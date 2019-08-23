@@ -1,0 +1,4 @@
+customer.c_address>customer.c_name;
+customer.c_phone>customer.c_name;
+supplier.s_address>supplier.s_name;
+supplier.s_phone>supplier.s_name;

@@ -1,0 +1,6 @@
+Name,	Address,       	Port,	Username,	Password,	Capacity,	IsOwner
+S0,  	192.168.178.92,	5432,	postgres,	postgres,	2.0,     	owner;
+S1,  	192.168.178.82,	5432,	postgres,	postgres,	INF;
+S2,  	192.168.178.87,	5432,	postgres,	postgres,	INF;
+S3,  	192.168.178.88,	5432,	postgres,	postgres,	INF;
+S4,  	192.168.178.25,	5432,	postgres,	postgres,	INF;
