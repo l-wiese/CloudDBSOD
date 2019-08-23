@@ -1,0 +1,13 @@
+This application depends on three third-party libraries:
+	-The PostgreSQL JDBC Driver (https://jdbc.postgresql.org/)
+	-The JsqlParser (https://github.com/JSQLParser/JSqlParser)
+	-The IBM ILOG CPLEX Java library (http://www-03.ibm.com/software/products/de/ibmilogcpleoptistud)
+
+To build an running .jar file, one has to specify the necessary dependencies in the build.xml:
+	-The path to the cplex.jar must be specified
+	-The path to the jsqlparser.jar needs to be specified
+	-The path to the postgresql.jar needs to be specified
+
+Subsequently, running
+	ant jar
+builds the executable SoD.jar file.
