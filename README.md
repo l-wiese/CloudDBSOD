@@ -1,5 +1,5 @@
 # CloudDBSOD
-A client that find an optimal Separation of Duties for Cloud Databases.
+A client to find an optimal Separation of Duties for Cloud Databases.
 
 ## Cite as
 
